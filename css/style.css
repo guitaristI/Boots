@@ -684,7 +684,7 @@ body{
 
  .gallery__slider .slick-arrow.slick-prev{
    
-   right: 120px;
+   left: 10px;
 	 background: url(../img/icons/gallery__arrow-left.png) 0 0 / 100% no-repeat;
    max-width: 12px;
  }
